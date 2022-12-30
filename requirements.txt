@@ -1,0 +1,6 @@
+packaging==22.0
+pyserial==3.5
+python-can==4.1.0
+pywin32==305
+typing_extensions==4.4.0
+wrapt==1.14.1
